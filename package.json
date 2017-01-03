@@ -1,5 +1,5 @@
 {
-  "name": "DataStream.js",
+  "name": "datastream.js",
   "version": "0.1.0",
   "description": "DataStream.js is a library for reading data from ArrayBuffers",
   "main": "DataStream.js",
